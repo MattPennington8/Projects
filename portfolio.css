@@ -1,0 +1,63 @@
+body {
+  background-color: #334756;
+  font-family: "Orbitron", sans-serif;
+  font-weight: bolder;
+}
+h1,
+footer {
+  background-color: #00fff5;
+  color: #222831;
+  text-align: center;
+  border-style: solid;
+  border-color: #00adb5;
+  border-radius: 25px;
+  margin: auto;
+}
+footer {
+  bottom: 0;
+  max-height: 100px;
+}
+header {
+  top: 0;
+}
+.icon {
+  width: 30px;
+  margin-bottom: 10px;
+}
+.links {
+  float: right;
+  margin-right: 25px;
+  margin-top: 12px;
+  color: inherit;
+  font-weight: bolder;
+}
+.mountain {
+  height: 600px;
+  width: 900px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+p {
+  text-align: center;
+}
+h2 {
+  text-decoration: underline;
+  color: #fc03f0;
+  text-align: center;
+}
+.japan {
+  height: 900px;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+.weird {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
