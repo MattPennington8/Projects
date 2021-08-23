@@ -1,48 +1,9 @@
-h1,
-footer {
-  background-color: #00fff5;
-  color: #222831;
-  text-align: center;
-  border-style: solid;
-  border-color: #00adb5;
-  border-radius: 25px;
-  margin: auto;
-}
 body {
-  background-color: #334756;
-  font-family: "Orbitron", sans-serif;
-  font-weight: bolder;
+  background-color: #7fc8a9;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
-h3 {
-  text-align: center;
-}
-.links {
-  float: right;
-  margin-right: 25px;
-  margin-top: 12px;
-  color: inherit;
-  font-weight: bolder;
-}
-.port header {
-  color: #222831;
-}
-.synth {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-.icon {
-  width: 30px;
-  margin-bottom: 10px;
-}
-footer {
-  bottom: 0;
-  max-height: 100px;
-}
-header {
-  top: 0;
-}
-h2 {
-  color: #fc03f0;
+main {
+  display: flex;
 }
